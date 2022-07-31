@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1400/1*1BF_piG6FL0LGYVSXbidXQ.png" width="250">
+<img src="https://miro.medium.com/max/1021/1*lti3X2lRNCKOEjNz45h8Lw.png" width="720">
 
 # S.O.L.I.D
 
